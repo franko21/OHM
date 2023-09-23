@@ -1,0 +1,16 @@
+Ejercicios
+1.- En un equipo, crear en modo comando, los siguientes directorios:
+E:\HOGAR
+	JUEGOS
+	CONTABILIDAD
+		RAFA
+		LUISA
+	HORARIOS
+		JUAN
+		SONIA
+2.- Cambiar el nombre de la carpeta RAFA a MATEO
+3.- Elimine la carpeta JUAN
+4.- Copie un archivo pdf que tenga en su computador a la carpeta LUISA
+5.- Mueva el archivo pdf que tiene en la carpeta LUISA a la carpeta SONIA
+6.- Renombre el archivo en la carpeta SONIA con el nombre PRUEBA2
+7.- Elimine la carpeta SONIA
